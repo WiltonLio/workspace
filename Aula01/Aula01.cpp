@@ -18,6 +18,7 @@ int main (void){
           << 2023-anoNascimento
           <<" anos, ou está proximo de fazer."
           << endl;
+     
     
     return 0;
 
