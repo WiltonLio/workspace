@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+// Testando a integração do VSCode
 
 using namespace std;
 
